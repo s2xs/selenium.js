@@ -1,0 +1,9 @@
+{
+  "name": "selenium.js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "selenium-webdriver": "^3.5.0",
+    "mocha": "^3.4.2"
+  }
+}
